@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\",
+  "WorkspaceRootPath": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\migrations\\202506021023109_animalss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|solutionrelative:migrations\\202506021023109_animalss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\models\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|solutionrelative:models\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\models\\animalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|solutionrelative:models\\animalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|solutionrelative:models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|c:\\users\\teachers\\desktop\\todor 11a\\animals_project\\migrations\\202506021023109_animalss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|solutionrelative:migrations\\202506021023109_animalss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|c:\\users\\teachers\\desktop\\todor 11a\\animals_project\\animals_project_todor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\models\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|solutionrelative:models\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\models\\animalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|solutionrelative:models\\animalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E736002-2F69-4FA6-A784-B2C9DBE20B8C}|Animals_project.csproj|solutionrelative:models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +54,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Migrations\\Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\Migrations\\Configuration.cs",
               "RelativeToolTip": "Migrations\\Configuration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,9 +69,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\App.config",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\App.config",
               "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\App.config",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\App.config",
               "RelativeToolTip": "App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -80,50 +80,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AnimalContext.cs",
-              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Models\\AnimalContext.cs",
-              "RelativeDocumentMoniker": "Models\\AnimalContext.cs",
-              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Models\\AnimalContext.cs",
-              "RelativeToolTip": "Models\\AnimalContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\Models\\Animal.cs",
+              "RelativeToolTip": "Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T10:13:15.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T10:09:02.699Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Models\\Animal.cs",
-              "RelativeDocumentMoniker": "Models\\Animal.cs",
-              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Models\\Animal.cs",
-              "RelativeToolTip": "Models\\Animal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T10:09:02.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Breed.cs",
-              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Models\\Breed.cs",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\Models\\Breed.cs",
               "RelativeDocumentMoniker": "Models\\Breed.cs",
-              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Models\\Breed.cs",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\Models\\Breed.cs",
               "RelativeToolTip": "Models\\Breed.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T10:08:22.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T10:08:22.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T10:07:08.574Z",
@@ -131,16 +116,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "202506021023109_Animalss.cs",
-              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Migrations\\202506021023109_Animalss.cs",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\Migrations\\202506021023109_Animalss.cs",
               "RelativeDocumentMoniker": "Migrations\\202506021023109_Animalss.cs",
-              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Migrations\\202506021023109_Animalss.cs",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\Migrations\\202506021023109_Animalss.cs",
               "RelativeToolTip": "Migrations\\202506021023109_Animalss.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T10:23:27.06Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnimalContext.cs",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\Models\\AnimalContext.cs",
+              "RelativeDocumentMoniker": "Models\\AnimalContext.cs",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Todor 11a\\Animals_project\\Animals_Project_Todor\\Models\\AnimalContext.cs",
+              "RelativeToolTip": "Models\\AnimalContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:13:15.593Z"
             }
           ]
         }

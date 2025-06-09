@@ -1,4 +1,4 @@
-﻿Unamespace Animals_project.Migrations
+﻿namespace Animals_project.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;
