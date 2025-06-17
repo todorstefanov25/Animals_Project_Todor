@@ -30,3 +30,19 @@ C:\Users\Teachers\Desktop\Todor 11a\Animals_project\Animals_Project_Todor\obj\De
 C:\Users\Teachers\Desktop\Todor 11a\Animals_project\Animals_Project_Todor\obj\Debug\Animals_.5B7C94DF.Up2Date
 C:\Users\Teachers\Desktop\Todor 11a\Animals_project\Animals_Project_Todor\obj\Debug\Animals_project.exe
 C:\Users\Teachers\Desktop\Todor 11a\Animals_project\Animals_Project_Todor\obj\Debug\Animals_project.pdb
+C:\Users\Todor\Desktop\Animals_Project_Todor\bin\Debug\Animals_project.exe.config
+C:\Users\Todor\Desktop\Animals_Project_Todor\bin\Debug\Animals_project.exe
+C:\Users\Todor\Desktop\Animals_Project_Todor\bin\Debug\Animals_project.pdb
+C:\Users\Todor\Desktop\Animals_Project_Todor\bin\Debug\EntityFramework.dll
+C:\Users\Todor\Desktop\Animals_Project_Todor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Todor\Desktop\Animals_Project_Todor\bin\Debug\EntityFramework.xml
+C:\Users\Todor\Desktop\Animals_Project_Todor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Todor\Desktop\Animals_Project_Todor\obj\Debug\Animals_project.csproj.AssemblyReference.cache
+C:\Users\Todor\Desktop\Animals_Project_Todor\obj\Debug\Animals_project.Form1.resources
+C:\Users\Todor\Desktop\Animals_Project_Todor\obj\Debug\Animals_project.Migrations.Animalss.resources
+C:\Users\Todor\Desktop\Animals_Project_Todor\obj\Debug\Animals_project.Properties.Resources.resources
+C:\Users\Todor\Desktop\Animals_Project_Todor\obj\Debug\Animals_project.csproj.GenerateResource.cache
+C:\Users\Todor\Desktop\Animals_Project_Todor\obj\Debug\Animals_project.csproj.CoreCompileInputs.cache
+C:\Users\Todor\Desktop\Animals_Project_Todor\obj\Debug\Animals_project.csproj.CopyComplete
+C:\Users\Todor\Desktop\Animals_Project_Todor\obj\Debug\Animals_project.exe
+C:\Users\Todor\Desktop\Animals_Project_Todor\obj\Debug\Animals_project.pdb
